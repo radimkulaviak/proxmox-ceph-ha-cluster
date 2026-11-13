@@ -3,7 +3,7 @@
 **Jazykové verze:** [English](README.md) | [Deutsch](README_DE.md)
 
 **Prostředí:** domácí laboratoř. 3 uzly Proxmox VE (pve1, pve2, pve3), úložiště Ceph, zátěž: webový server Apache + 3-node MariaDB Galera cluster.
-**Autor:** Radim Kulaviak (isol.cz)
+**Autor:** Radim Kulaviak (isol.cz)..
 
 ## Topologie
 - **pve1 (192.168.0.200):** OSD.0, VM pod správou HA (web1, db1)
