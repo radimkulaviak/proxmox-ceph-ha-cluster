@@ -1,0 +1,8 @@
+*.log
+*.retry
+inventory-*/
+*.csv
+inventory.ini
+.env
+*.key
+*.pem
